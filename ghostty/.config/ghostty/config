@@ -1,0 +1,8 @@
+# typography
+font-family = JetBrains Mono
+font-size = 13
+
+# background
+background-opacity = 0.85
+background-blur = 16
+background = #191a1c
